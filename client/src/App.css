@@ -1,0 +1,24 @@
+/* Navbar styling */
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: #007bff;
+    padding: 10px;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
+  /* App container styling */
+  .app-container {
+    font-family: Arial, sans-serif;
+  }
+  
